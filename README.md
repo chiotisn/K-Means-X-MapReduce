@@ -2,14 +2,13 @@
 A project implementing K-Means clustering algorithm in Map-Reduce using sythetic data as a sample.
 
 ## PointsGenerator.py
-A python file that generated random points in the form of x,y.
+A python file that generated random points in the form of x,y following skewed distribution towards 0.
 
 exec: 
 ```console
 $python3   PointsGenerator.py    [-n NUM]     out
 
 positional arguments: 
-
   out                   output file
   
 optional arguments:
