@@ -1,5 +1,5 @@
 # K-Means-X-MapReduce
-A project implementing K-Means clustering algorithm in Map-Reduce using sytheting data as a sample.
+A project implementing K-Means clustering algorithm in Map-Reduce using sythetic data as a sample.
 
 ## PointsGenerator.py
 A python file that generated random points in the form of x,y.
